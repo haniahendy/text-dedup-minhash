@@ -1,0 +1,7 @@
+b87d3dff020100c99f4fb15098b7b93767359a2e64cb17ba45381df68c6e4542  ./README.md
+0bbc14d13181d6865bcf02db5de8ef17e954623b1be87be624710da0f7822d7d  ./src/textdedup/__init__.py
+12886796382b353cfbfb65f59f44e3c3b9eac6e0ea4df65403d4f9a4a617dd2d  ./src/textdedup/cli.py
+0dcba6465fa8c228ed660f04e8cb5125b116e48fea69e3f852b372404470c524  ./src/textdedup/lsh.py
+2a4e80ac0d97797d04a521746fd1fc637eaaf81ae41b0426ac78f125115f24eb  ./src/textdedup/minhash.py
+8110dfb2811f31ed0df16524b01d9f9de33c21a3f2f65d2e71985193725ffbd0  ./src/textdedup/shingles.py
+9cf6452f2e5a24ebd2d31c74507b8df69d41cbecab60de9eaf0b2fd62db11e26  ./tests/test_textdedup.py
